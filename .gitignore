@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+contextmaker_log_*.txt
+
+# Generated contexts
+contexts/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db 
